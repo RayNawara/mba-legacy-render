@@ -1,14 +1,13 @@
 databases:
-  - name: mysite
-    databaseName: mysite
-    user: mysite
+  - name: MBA-Legacy-MySQL
+    databaseName: mba_development
+    user: mba
 
 services:
   - type: web
     name: mysite
     env: docker
-    buildCommand: "./bin/render-build.sh"
-    startCommand: "bundle exec puma -C config/puma.rb"
+    dockerCommand: "/bin/bash"
     envVars:
       - key: DATABASE_URL
         fromDatabase:
