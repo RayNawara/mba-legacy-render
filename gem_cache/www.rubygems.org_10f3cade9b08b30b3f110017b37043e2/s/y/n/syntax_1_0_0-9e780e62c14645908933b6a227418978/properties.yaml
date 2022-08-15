@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: syntax-1.0.0
+:headers:
+  :gem:
+    content-length: '15360'
+    last-modified: Tue, 02 Feb 2016 07:26:46 GMT
+    etag: '"d9d2eabc03bc937adfa00e35f228f9a8"'
+    content-type: binary/octet-stream

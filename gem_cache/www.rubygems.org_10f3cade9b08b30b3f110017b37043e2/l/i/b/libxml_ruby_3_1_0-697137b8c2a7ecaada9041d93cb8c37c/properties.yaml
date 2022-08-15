@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: libxml-ruby-3.1.0
+:headers:
+  :gem:
+    content-length: '377856'
+    last-modified: Sun, 04 Feb 2018 05:02:12 GMT
+    etag: '"65906f804fa3ee4cf1b4192c5b185df4"'
+    content-type: application/octet-stream

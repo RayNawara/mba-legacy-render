@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rack-1.4.7
+:headers:
+  :gem:
+    content-length: '204800'
+    last-modified: Tue, 02 Feb 2016 06:33:56 GMT
+    etag: '"a0c1f4f40015cd4bf8499ee471233898"'
+    content-type: binary/octet-stream

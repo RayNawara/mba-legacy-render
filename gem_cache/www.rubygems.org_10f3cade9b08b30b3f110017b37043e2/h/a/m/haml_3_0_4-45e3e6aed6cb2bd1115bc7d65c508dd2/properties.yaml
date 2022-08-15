@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: haml-3.0.4
+:headers:
+  :gem:
+    content-length: '262656'
+    last-modified: Tue, 02 Feb 2016 05:16:44 GMT
+    etag: '"95dee86b0609160b48c8d4069f487bfd"'
+    content-type: binary/octet-stream

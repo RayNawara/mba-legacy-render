@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: net-http-persistent-2.9.4
+:headers:
+  :gem:
+    content-length: '31232'
+    last-modified: Tue, 02 Feb 2016 06:06:29 GMT
+    etag: '"61cb21cccc85ddca77ee58af25bcf51f"'
+    content-type: binary/octet-stream

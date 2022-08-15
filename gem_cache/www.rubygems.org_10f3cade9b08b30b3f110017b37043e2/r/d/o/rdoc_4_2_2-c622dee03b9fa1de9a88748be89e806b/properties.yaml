@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rdoc-4.2.2
+:headers:
+  :gem:
+    content-length: '738816'
+    last-modified: Tue, 09 Feb 2016 02:23:08 GMT
+    etag: '"7ff80dc28d18e10b7b8e89b1a297ac1a"'
+    content-type: application/octet-stream

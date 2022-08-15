@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: net-sftp-2.0.5
+:headers:
+  :gem:
+    content-length: '61440'
+    last-modified: Tue, 02 Feb 2016 06:06:32 GMT
+    etag: '"108bbbbda6fae6cd7fd288bff4a00602"'
+    content-type: binary/octet-stream

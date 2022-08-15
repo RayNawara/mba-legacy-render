@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: domain_name-0.5.20190701
+:headers:
+  :gem:
+    content-length: '131072'
+    last-modified: Fri, 05 Jul 2019 09:12:46 GMT
+    etag: '"a8795f080f54fd961c27ff9aef1d9e59"'
+    content-type: application/octet-stream

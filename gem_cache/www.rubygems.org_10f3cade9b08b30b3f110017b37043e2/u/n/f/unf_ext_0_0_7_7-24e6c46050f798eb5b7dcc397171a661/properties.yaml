@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: unf_ext-0.0.7.7
+:headers:
+  :gem:
+    content-length: '399360'
+    last-modified: Sun, 29 Mar 2020 17:12:00 GMT
+    etag: '"f9062518fe49934b0d22f04b5cbb98fd"'
+    content-type: application/octet-stream

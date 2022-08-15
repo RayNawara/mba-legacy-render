@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: ts-delayed-delta-1.1.1
+:headers:
+  :gem:
+    content-length: '10752'
+    last-modified: Tue, 02 Feb 2016 07:38:12 GMT
+    etag: '"4e8d685079b67a338c81301058d1c484"'
+    content-type: binary/octet-stream

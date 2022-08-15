@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: machinist-1.0.6
+:headers:
+  :gem:
+    content-length: '16896'
+    last-modified: Tue, 02 Feb 2016 05:48:46 GMT
+    etag: '"9c1cb7b7e4e2d62670d37f7baabf2f71"'
+    content-type: binary/octet-stream

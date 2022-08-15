@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: nokogiri-1.5.11
+:headers:
+  :gem:
+    content-length: '222208'
+    last-modified: Tue, 02 Feb 2016 06:08:19 GMT
+    etag: '"a8633b83af0ad8362e313914682d3f89"'
+    content-type: binary/octet-stream

@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: json-1.8.6
+:headers:
+  :gem:
+    content-length: '144384'
+    last-modified: Fri, 13 Jan 2017 11:12:13 GMT
+    etag: '"80541f165c8796ab3217fed02de195ca"'
+    content-type: application/octet-stream

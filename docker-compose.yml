@@ -1,0 +1,34 @@
+version: "3"
+services:
+  rails:
+    image: rjnawara/mba-next:latest
+    volumes:
+      - "./code:/mba-orig"
+    container_name: mba_rails
+    depends_on:
+      - mysql
+      - gemstash
+    ports:
+      - 8081:8080
+    tty: true
+    environment:
+      - RAILS_ENV=development
+
+  mysql:
+    image: grugnog/mysql-5.1
+    volumes:
+      - "./mba-mysql:/var/lib/mysql"
+    container_name: mba_mysql
+    ports:
+      - "3307:3306"
+    environment:
+      - MYSQL_DATABASE=mba_development
+      - MYSQL_ROOT_PASSWORD=Mys3267!
+
+  gemstash:
+    image: artemave/gemstash
+    volumes:
+      - "./gemstash:/root/.gemstash"
+    container_name: gemstash_server
+    ports:
+      - '9292:9292'

@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: polyglot-0.3.2
+:headers:
+  :gem:
+    content-length: '15872'
+    last-modified: Tue, 02 Feb 2016 06:26:41 GMT
+    etag: '"11cc7c80ed309ecae6fe97b099d94665"'
+    content-type: binary/octet-stream

@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: highline-1.6.21
+:headers:
+  :gem:
+    content-length: '221184'
+    last-modified: Tue, 02 Feb 2016 05:19:06 GMT
+    etag: '"fc79952fb9d12957d828da76b94e4ecb"'
+    content-type: binary/octet-stream

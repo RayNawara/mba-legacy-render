@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: http-cookie-1.0.3
+:headers:
+  :gem:
+    content-length: '38400'
+    last-modified: Fri, 30 Sep 2016 11:02:13 GMT
+    etag: '"6a5ebc9f1b1f3628794c71b30ce7e5ec"'
+    content-type: application/octet-stream

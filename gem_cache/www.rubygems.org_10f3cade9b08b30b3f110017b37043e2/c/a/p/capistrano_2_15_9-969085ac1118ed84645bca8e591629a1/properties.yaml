@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: capistrano-2.15.9
+:headers:
+  :gem:
+    content-length: '132608'
+    last-modified: Mon, 27 Jun 2016 10:08:34 GMT
+    etag: '"c61e60dd73ce331d3064274ec831af44"'
+    content-type: application/octet-stream

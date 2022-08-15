@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: business_time-0.3.0
+:headers:
+  :gem:
+    content-length: '12288'
+    last-modified: Tue, 02 Feb 2016 04:14:26 GMT
+    etag: '"6bb4094f7e89263f62edfdd363814341"'
+    content-type: binary/octet-stream

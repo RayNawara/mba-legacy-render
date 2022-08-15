@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: activeresource-2.3.10
+:headers:
+  :gem:
+    content-length: '73728'
+    last-modified: Tue, 02 Feb 2016 03:53:26 GMT
+    etag: '"b3fd76cb17a2407dc6ed0e8a4ff13837"'
+    content-type: binary/octet-stream

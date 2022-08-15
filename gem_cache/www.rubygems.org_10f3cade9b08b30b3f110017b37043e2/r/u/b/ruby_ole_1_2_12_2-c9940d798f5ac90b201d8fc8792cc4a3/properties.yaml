@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: ruby-ole-1.2.12.2
+:headers:
+  :gem:
+    content-length: '56832'
+    last-modified: Tue, 12 Mar 2019 09:54:14 GMT
+    etag: '"8c011547a0d16b891018236fd5b45f9e"'
+    content-type: application/octet-stream

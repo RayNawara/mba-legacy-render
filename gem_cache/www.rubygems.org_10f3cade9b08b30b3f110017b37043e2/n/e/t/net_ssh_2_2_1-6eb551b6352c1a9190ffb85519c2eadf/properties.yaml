@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: net-ssh-2.2.1
+:headers:
+  :gem:
+    content-length: '133120'
+    last-modified: Tue, 02 Feb 2016 06:06:33 GMT
+    etag: '"36d1cd51af81d50bf5ce05a574417ce8"'
+    content-type: binary/octet-stream

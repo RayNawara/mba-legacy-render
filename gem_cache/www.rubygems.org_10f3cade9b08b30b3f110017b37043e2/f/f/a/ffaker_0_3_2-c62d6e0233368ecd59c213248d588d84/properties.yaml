@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: ffaker-0.3.2
+:headers:
+  :gem:
+    content-length: '26624'
+    last-modified: Tue, 02 Feb 2016 04:57:13 GMT
+    etag: '"7cbf138bda8d0a42f197dd6e96a8130f"'
+    content-type: binary/octet-stream

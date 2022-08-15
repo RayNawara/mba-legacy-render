@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: mime-types-1.25.1
+:headers:
+  :gem:
+    content-length: '61440'
+    last-modified: Tue, 02 Feb 2016 05:56:16 GMT
+    etag: '"54a5c6e16bd0992345f8da6489773167"'
+    content-type: binary/octet-stream

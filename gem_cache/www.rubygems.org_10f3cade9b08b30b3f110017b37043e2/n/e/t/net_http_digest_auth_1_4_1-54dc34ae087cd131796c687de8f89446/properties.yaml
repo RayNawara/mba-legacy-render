@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: net-http-digest_auth-1.4.1
+:headers:
+  :gem:
+    content-length: '13824'
+    last-modified: Wed, 08 Feb 2017 18:19:42 GMT
+    etag: '"3fa1dea84fab10ab0e7e6eda3c35e4fc"'
+    content-type: application/octet-stream

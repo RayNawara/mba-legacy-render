@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rbx-require-relative-0.0.5
+:headers:
+  :gem:
+    content-length: '8704'
+    last-modified: Tue, 02 Feb 2016 06:39:02 GMT
+    etag: '"9813c4e8ebec49acf44f4f22dd082558"'
+    content-type: binary/octet-stream

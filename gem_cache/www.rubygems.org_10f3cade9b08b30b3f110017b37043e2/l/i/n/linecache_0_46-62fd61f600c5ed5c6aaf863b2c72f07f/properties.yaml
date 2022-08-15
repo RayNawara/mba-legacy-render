@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: linecache-0.46
+:headers:
+  :gem:
+    content-length: '28160'
+    last-modified: Tue, 02 Feb 2016 05:44:11 GMT
+    etag: '"3e11e53b8c44760b01bdc2ae10be0f79"'
+    content-type: binary/octet-stream

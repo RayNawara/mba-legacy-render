@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: actionpack-2.3.10
+:headers:
+  :gem:
+    content-length: '1082368'
+    last-modified: Tue, 02 Feb 2016 03:51:19 GMT
+    etag: '"1a4c0f1aef12a9eaa0f62137661ba29f"'
+    content-type: binary/octet-stream

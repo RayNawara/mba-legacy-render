@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: chronic-0.10.2
+:headers:
+  :gem:
+    content-length: '43008'
+    last-modified: Tue, 02 Feb 2016 04:23:50 GMT
+    etag: '"08a655a971a93f476e2a827365973f57"'
+    content-type: binary/octet-stream

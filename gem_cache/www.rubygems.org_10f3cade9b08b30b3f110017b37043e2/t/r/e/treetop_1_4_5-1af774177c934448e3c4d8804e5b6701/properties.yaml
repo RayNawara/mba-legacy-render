@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: treetop-1.4.5
+:headers:
+  :gem:
+    content-length: '43520'
+    last-modified: Tue, 02 Feb 2016 07:37:10 GMT
+    etag: '"1c7fd46d2ee0d68748c1e83b91968a5e"'
+    content-type: binary/octet-stream

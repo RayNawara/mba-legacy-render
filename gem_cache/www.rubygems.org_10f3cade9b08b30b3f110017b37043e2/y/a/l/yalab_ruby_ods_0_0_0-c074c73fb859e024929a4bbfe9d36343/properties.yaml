@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: yalab-ruby-ods-0.0.0
+:headers:
+  :gem:
+    content-length: '19456'
+    last-modified: Tue, 02 Feb 2016 07:52:29 GMT
+    etag: '"5dbd2e02b6699d41688218404a281208"'
+    content-type: binary/octet-stream

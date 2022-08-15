@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rdoc-3.11
+:headers:
+  :gem:
+    content-length: '311808'
+    last-modified: Tue, 02 Feb 2016 06:39:28 GMT
+    etag: '"626e5a31ec3597221459d9eca4c9355e"'
+    content-type: binary/octet-stream

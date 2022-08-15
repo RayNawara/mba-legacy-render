@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: pdfkit-0.4.6
+:headers:
+  :gem:
+    content-length: '12800'
+    last-modified: Tue, 02 Feb 2016 06:21:46 GMT
+    etag: '"269bb8b6fdee66288fff18c8acda6e57"'
+    content-type: binary/octet-stream

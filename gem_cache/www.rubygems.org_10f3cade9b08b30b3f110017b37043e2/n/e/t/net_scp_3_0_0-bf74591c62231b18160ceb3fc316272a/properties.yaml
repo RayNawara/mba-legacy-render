@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: net-scp-3.0.0
+:headers:
+  :gem:
+    content-length: '31744'
+    last-modified: Sun, 26 Apr 2020 05:25:36 GMT
+    etag: '"8d8be5990e79db726252a3e8075c9543"'
+    content-type: application/octet-stream

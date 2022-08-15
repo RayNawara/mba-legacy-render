@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: cloudfiles-1.4.8
+:headers:
+  :gem:
+    content-length: '21504'
+    last-modified: Tue, 02 Feb 2016 04:25:54 GMT
+    etag: '"755e6ea2e25cff49d957889a6e55798c"'
+    content-type: binary/octet-stream

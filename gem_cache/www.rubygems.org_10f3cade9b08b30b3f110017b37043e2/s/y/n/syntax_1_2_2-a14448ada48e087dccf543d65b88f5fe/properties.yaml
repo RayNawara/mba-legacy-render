@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: syntax-1.2.2
+:headers:
+  :gem:
+    content-length: '20480'
+    last-modified: Mon, 03 Jul 2017 07:52:26 GMT
+    etag: '"3f9a487da93efec9797ac671187744b4"'
+    content-type: application/octet-stream

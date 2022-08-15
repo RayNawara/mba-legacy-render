@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rmagick-2.16.0
+:headers:
+  :gem:
+    content-length: '1545728'
+    last-modified: Mon, 15 Aug 2016 09:12:25 GMT
+    etag: '"d03bb84d342b0a78f9c6262acb451dc8"'
+    content-type: application/octet-stream

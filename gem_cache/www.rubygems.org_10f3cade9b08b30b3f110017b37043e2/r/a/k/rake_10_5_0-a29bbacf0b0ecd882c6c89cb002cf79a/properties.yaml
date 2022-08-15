@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: rake-10.5.0
+:headers:
+  :gem:
+    content-length: '130560'
+    last-modified: Tue, 02 Feb 2016 06:37:06 GMT
+    etag: '"60ed74098a057a6ac0444d99869d818f"'
+    content-type: binary/octet-stream

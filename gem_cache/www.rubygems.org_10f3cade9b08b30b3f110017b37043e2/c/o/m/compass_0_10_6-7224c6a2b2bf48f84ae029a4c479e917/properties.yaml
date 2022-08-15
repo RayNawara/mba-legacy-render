@@ -1,0 +1,10 @@
+---
+:gemstash_resource_version: 1
+:upstream: https://www.rubygems.org
+:gem_name: compass-0.10.6
+:headers:
+  :gem:
+    content-length: '799232'
+    last-modified: Tue, 02 Feb 2016 04:28:27 GMT
+    etag: '"f4dcb895aefd5c8d1fb69a927c315e13"'
+    content-type: binary/octet-stream
