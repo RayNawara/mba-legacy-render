@@ -5,7 +5,8 @@ LABEL description="This is an image to setup a dev environment for mbadiamond"
 ARG GITHUB_PAT
 ARG BUNDLE_GITHUB__COM
 
-RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git /mba-orig && git submodule update --init --recursive
+RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git /mba-orig 
+# && git submodule update --init --recursive
 
 RUN cp config/database.yml.rails2 config/database.yml
 # bundle install and then bundle exec unicorn_rails -c config/unicorn.conf
