@@ -2,10 +2,10 @@ FROM rjnawara/mba-next:latest
 
 LABEL description="This is an image to setup a dev environment for mbadiamond"
 
-
+COPY ./code/* /mba-orig/
 # bundle install and then bundle exec unicorn_rails -c config/unicorn.conf
 
-# RUN bundle install
+RUN bundle install
 
 # You could also run script/server but then you can't generate PDFs. 
 
