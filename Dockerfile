@@ -15,7 +15,9 @@ RUN --mount=type=secret,id=id_rsa,dst=/etc/secrets/id_rsa cp /etc/secrets/id_rsa
 RUN touch /root/.ssh/known_hosts
 RUN ssh-keyscan github.com >> /root/.ssh/known_hosts
 
-RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git  && git submodule update --init --recursive
+RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git 
+RUN cd mba-legacy
+RUN git submodule update --init --recursive
 
 FROM rjnawara/mba-next:latest
 
