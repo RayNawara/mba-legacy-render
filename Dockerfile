@@ -15,7 +15,8 @@ RUN --mount=type=secret,id=id_rsa,dst=/etc/secrets/id_rsa cp /etc/secrets/id_rsa
 RUN touch /root/.ssh/known_hosts
 RUN ssh-keyscan github.com >> /root/.ssh/known_hosts
 
-RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git 
+RUN git clone https://RayNawara:$GITHUB_PAT@github.com/MBA-Ventures-LLC/mba-legacy.git
+COPY database.yml /mba-legacy/config/database.yml
 WORKDIR /mba-legacy
 RUN git submodule update --init --recursive
 
@@ -28,10 +29,9 @@ LABEL description="This is an image to setup a dev environment for mbadiamond"
 # copy the repository form the previous image
 COPY --from=intermediate /mba-legacy/ /mba-orig/
 
-RUN cp ./database.yml config/database.yml
 # bundle install and then bundle exec unicorn_rails -c config/unicorn.conf
 RUN bundle install
-RUN bundle exec unicorn_rails -c config/unicorn.conf
+# RUN bundle exec unicorn_rails -c config/unicorn.conf
 
 # You could also run script/server but then you can't generate PDFs. 
 

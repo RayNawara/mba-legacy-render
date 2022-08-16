@@ -6,11 +6,11 @@ development:
   pool: 5
   username: root
   password: "Mys3267!"
-  host: mysql
+  host: 172.17.0.2
 
 production:
   adapter: mysql
-  host: https://mba-legacy.onrender.com
+  host: mysql-5-7:3306
   port: 3306
   database: mba_development
   username: mba
