@@ -10,7 +10,7 @@ development:
 
 production:
   adapter: mysql
-  host: mysql-5-7:3306
+  host: mba-legacy-mysql:3306
   port: 3306
   database: mba_development
   username: mba
