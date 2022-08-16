@@ -1,0 +1,36 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: mba_development
+  pool: 5
+  username: root
+  password: "Mys3267!"
+  host: mysql
+
+production:
+  adapter: mysql
+  host: https://mba-legacy.onrender.com
+  port: 3306
+  database: mba_development
+  username: mba
+  password: SuperSecretPw22
+  encoding: utf8
+  timeout: 5000
+#   estraier:
+#     host: 10.176.67.72
+#     user: globalauth
+#     password: SoniC$NeW33Nates
+#     port: 1978
+#     node: globalauth
+
+# legacy:
+#   production:
+#     adapter: mysql
+#     host: 10.176.160.74
+#     port: 3306
+#     database: GA_dbo
+#     username: globalauth
+#     password: mas75VaSes#
+#     encoding: utf8
+#     timeout: 5000
