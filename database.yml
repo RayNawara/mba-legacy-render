@@ -11,7 +11,7 @@ development:
 
 production:
   adapter: mysql
-  host: mba-mysql-5.1
+  host: mba-mysql-5-1
   port: 3306
   database: mba_development
   username: mysql
