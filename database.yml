@@ -6,12 +6,12 @@ development:
   pool: 5
   username: root
   password: "Mys3267!"
-  # host: 172.17.0.2
-  host: mba-legacy-mysql
+  host: 172.17.0.2
+  # host: mba-legacy-mysql
 
 production:
   adapter: mysql
-  host: mba-legacy-mysql
+  host: mba-legacy-mysql:10000
   port: 3306
   database: mba_development
   username: mba
