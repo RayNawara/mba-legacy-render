@@ -11,8 +11,8 @@ development:
 
 production:
   adapter: mysql
-  host: mba-legacy-mysql
-  port: 10000
+  host: mba-mysql-5.1
+  port: 3306
   database: mba_development
   username: mysql
   password: MySecretPassword22!
