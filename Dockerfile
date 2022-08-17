@@ -30,6 +30,8 @@ LABEL description="This is an image to setup a dev environment for mbadiamond"
 COPY --from=intermediate /mba-legacy/ /mba-orig/
 RUN cat config/database.yml
 
+EXPOSE 8080
+
 # bundle install and then bundle exec unicorn_rails -c config/unicorn.conf
 RUN bundle install
 # RUN bundle exec unicorn_rails -c config/unicorn.conf

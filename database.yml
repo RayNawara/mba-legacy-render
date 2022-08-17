@@ -11,11 +11,11 @@ development:
 
 production:
   adapter: mysql
-  host: mba-legacy-mysql:10000
-  port: 3306
+  host: mba-legacy-mysql
+  port: 10000
   database: mba_development
-  username: mba
-  password: SuperSecretPw22
+  username: mysql
+  password: MySecretPassword22!
   encoding: utf8
   timeout: 5000
 #   estraier:
